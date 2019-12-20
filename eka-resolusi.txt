@@ -1,0 +1,4 @@
+Eka Resolusi
+- Belajar Git dan GitHub
+- Buat Proyek Sederhana dengan Ilmu yang Sudah Ada
+- Belajar Composer

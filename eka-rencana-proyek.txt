@@ -1,0 +1,8 @@
+Rencana Proyek Eka
+
+- Web Soal TPA
+- Web Pribadi
+  * Untuk Diri Pribadi
+  * Ditawarkan ke Teman se Angkatan
+- Web KMT Zenerics
+- Web Pembayaran Listrik Kos - Kosan

@@ -4,5 +4,6 @@ Rencana Proyek Eka
 - Web Pribadi
   * Untuk Diri Pribadi
   * Ditawarkan ke Teman se Angkatan
+- Web Toko Online
 - Web KMT Zenerics
 - Web Pembayaran Listrik Kos - Kosan

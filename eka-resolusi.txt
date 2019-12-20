@@ -2,3 +2,5 @@ Eka Resolusi
 - Belajar Git dan GitHub
 - Buat Proyek Sederhana dengan Ilmu yang Sudah Ada
 - Belajar Composer
+- Bisnis Web Sederhana
+- Kolaborasi dengan Komunitas Web Programmer

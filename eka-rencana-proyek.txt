@@ -4,6 +4,8 @@ Rencana Proyek Eka
 - Web Pribadi
   * Untuk Diri Pribadi
   * Ditawarkan ke Teman se Angkatan
-- Web Toko Online
+    ^ Chat satu persatu
+    ^ Kasih Promo Gratis untuk Satu Bulan
 - Web KMT Zenerics
+  * pake hosting gratis
 - Web Pembayaran Listrik Kos - Kosan
